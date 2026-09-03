@@ -4,7 +4,6 @@
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/main/light.svg">
   <img alt="Akshay C P"
-    src="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/main/light.svg">
     src="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/main/dark.svg">
 
 </picture>
