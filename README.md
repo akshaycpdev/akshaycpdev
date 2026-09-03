@@ -7,6 +7,36 @@
     src="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/main/dark.svg">
 </picture>
 
+
+### 🛠️ Tech Stack
+
+**Languages**
+<img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/SQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=22D3EE" />
+
+**Frontend**
+<img src="https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react&logoColor=A78BFA" />
+
+**Backend**
+<img src="https://img.shields.io/badge/FastAPI-0A101F?style=for-the-badge&logo=fastapi&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/LangChain-0A101F?style=for-the-badge&logo=langchain&logoColor=A78BFA" />
+
+**Database**
+<img src="https://img.shields.io/badge/PostgreSQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Qdrant-0A101F?style=for-the-badge&logo=qdrant&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Firebase-0A101F?style=for-the-badge&logo=firebase&logoColor=10B981" />
+
+**Infra & Tools**
+<img src="https://img.shields.io/badge/Vercel-0A101F?style=for-the-badge&logo=vercel&logoColor=F8FAFC" />
+<img src="https://img.shields.io/badge/Render-0A101F?style=for-the-badge&logo=render&logoColor=F8FAFC" />
+<img src="https://img.shields.io/badge/VS%20Code-0A101F?style=for-the-badge&logo=visualstudiocode&logoColor=F8FAFC" />
+<img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F8FAFC" />
+<img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=F8FAFC" />
+<img src="https://img.shields.io/badge/Linux-0A101F?style=for-the-badge&logo=linux&logoColor=F8FAFC" />
+
 <div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=akshaycpdev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
