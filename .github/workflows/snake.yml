@@ -1,12 +1,15 @@
 name: generate contribution snake
-
 on:
   schedule:
-    - cron: "0 */12 * * *"     # every 12 hours
-  workflow_dispatch: {}         # manual "Run workflow" button
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
   push:
     branches:
       - main
+
+concurrency:
+  group: snake-generation
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -24,7 +27,7 @@ jobs:
             dist/github-contribution-grid-snake-light.svg?palette=github-light&color_snake=%237C3AED&color_dots=%23ebedf0,%23c9d6ff,%2322D3EE,%230891B2,%237C3AED
 
       - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
