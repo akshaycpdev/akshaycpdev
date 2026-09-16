@@ -1,74 +1,135 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/main/dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/main/light.svg">
-  <img alt="Akshay C P"
-    src="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/main/dark.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/main/dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/main/light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/main/dark.svg"
+      alt="Akshay C P"
+      width="100%"
+    />
+  </picture>
+</p>
 
+---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-<img src="https://img.shields.io/badge/-Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/-SQL-0A101F?style=flat-square&logo=postgresql&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/-HTML5-0A101F?style=flat-square&logo=html5&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/-CSS3-0A101F?style=flat-square&logo=css3&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/-JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=22D3EE" />
+### Languages
 
-**Frontend**
-<img src="https://img.shields.io/badge/-React-0A101F?style=flat-square&logo=react&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-0A101F?style=flat-square&logo=postgresql&logoColor=22D3EE" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-0A101F?style=flat-square&logo=html5&logoColor=22D3EE" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0A101F?style=flat-square&logo=css3&logoColor=22D3EE" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=22D3EE" alt="JavaScript" />
 
-**Backend**
-<img src="https://img.shields.io/badge/-FastAPI-0A101F?style=flat-square&logo=fastapi&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/-LangChain-0A101F?style=flat-square&logoColor=A78BFA" />
+### Frontend
 
-**Database**
-<img src="https://img.shields.io/badge/-PostgreSQL-0A101F?style=flat-square&logo=postgresql&logoColor=10B981" />
-<img src="https://img.shields.io/badge/-Qdrant-0A101F?style=flat-square&logoColor=10B981" />
-<img src="https://img.shields.io/badge/-Firebase-0A101F?style=flat-square&logo=firebase&logoColor=10B981" />
+<img src="https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=A78BFA" alt="React" />
 
-**Infra & Tools**
-<img src="https://img.shields.io/badge/-Vercel-0A101F?style=flat-square&logo=vercel&logoColor=F8FAFC" />
-<img src="https://img.shields.io/badge/-Render-0A101F?style=flat-square&logoColor=F8FAFC" />
-<img src="https://img.shields.io/badge/-VS%20Code-0A101F?style=flat-square&logo=visualstudiocode&logoColor=F8FAFC" />
-<img src="https://img.shields.io/badge/-Git-0A101F?style=flat-square&logo=git&logoColor=F8FAFC" />
-<img src="https://img.shields.io/badge/-GitHub-0A101F?style=flat-square&logo=github&logoColor=F8FAFC" />
-<img src="https://img.shields.io/badge/-Linux-0A101F?style=flat-square&logo=linux&logoColor=F8FAFC" />
+### Backend & AI
+
+<img src="https://img.shields.io/badge/FastAPI-0A101F?style=flat-square&logo=fastapi&logoColor=A78BFA" alt="FastAPI" />
+<img src="https://img.shields.io/badge/LangChain-0A101F?style=flat-square&logo=langchain&logoColor=A78BFA" alt="LangChain" />
+
+### Database
+
+<img src="https://img.shields.io/badge/PostgreSQL-0A101F?style=flat-square&logo=postgresql&logoColor=10B981" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Qdrant-0A101F?style=flat-square&logo=qdrant&logoColor=10B981" alt="Qdrant" />
+<img src="https://img.shields.io/badge/Firebase-0A101F?style=flat-square&logo=firebase&logoColor=10B981" alt="Firebase" />
+
+### Infra & Tools
+
+<img src="https://img.shields.io/badge/Vercel-0A101F?style=flat-square&logo=vercel&logoColor=F8FAFC" alt="Vercel" />
+<img src="https://img.shields.io/badge/Render-0A101F?style=flat-square&logo=render&logoColor=F8FAFC" alt="Render" />
+<img src="https://img.shields.io/badge/VS%20Code-0A101F?style=flat-square&logo=visualstudiocode&logoColor=F8FAFC" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-0A101F?style=flat-square&logo=git&logoColor=F8FAFC" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0A101F?style=flat-square&logo=github&logoColor=F8FAFC" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-0A101F?style=flat-square&logo=linux&logoColor=F8FAFC" alt="Linux" />
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=akshaycpdev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=akshaycpdev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F"
+  alt="GitHub Stats"
+  height="180"
+/>
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats-akshay-1646.vercel.app/api?username=akshaycpdev&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500&cb=2" alt="stats" />
-<img width="49%" src="https://github-readme-stats-akshay-1646.vercel.app/api/top-langs/?username=akshaycpdev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500&cb=2" alt="top languages" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycpdev&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F"
+  alt="Top Languages"
+  height="180"
+/>
 
 </div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=akshaycpdev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE"
+  alt="GitHub Contribution Streak"
+  width="80%"
+/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/output/github-contribution-grid-snake-dark.svg?cb=1" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/output/github-contribution-grid-snake-light.svg?cb=1" />
-  <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/output/github-contribution-grid-snake-dark.svg?cb=1" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/output/github-contribution-grid-snake-light.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/akshaycpdev/akshaycpdev/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </picture>
 
 </div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/akshaycp05/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
+
 &nbsp;&nbsp;
+
 <a href="mailto:choutajeakshay@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981"
+    alt="Email"
+  />
 </a>
 
 </div>
