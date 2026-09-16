@@ -22,11 +22,11 @@
 
 ### Languages
 
-<img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-0A101F?style=flat-square&logo=postgresql&logoColor=22D3EE" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML5-0A101F?style=flat-square&logo=html5&logoColor=22D3EE" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0A101F?style=flat-square&logo=css3&logoColor=22D3EE" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=22D3EE" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE" alt="Python">
+<img src="https://img.shields.io/badge/SQL-0A101F?style=flat-square&logo=postgresql&logoColor=22D3EE" alt="SQL">
+<img src="https://img.shields.io/badge/HTML5-0A101F?style=flat-square&logo=html5&logoColor=22D3EE" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-0A101F?style=flat-square&logo=css3&logoColor=22D3EE" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=22D3EE" alt="JavaScript">
 
 ### Frontend
 
